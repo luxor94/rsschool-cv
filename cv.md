@@ -1,5 +1,5 @@
 <h1>Markdown</h1>
-Hi, my name is <h2>Alexander Popov.</h2>
+Hi, my name is <h2>Alexander Popov</h2>.
 Contacts: +375 (29) 642-59-75 (Telegram, Viber)
 Since childhood, I wanted to do programming, but something didn't work out.
 And I study and work in a different field.
