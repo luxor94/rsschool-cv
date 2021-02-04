@@ -217,7 +217,7 @@ main {
 }
 
 .aboutme .wrepper .outer-block2 {
-    background: url('./assets/image/about.jpeg') no-repeat center center;
+    background: url('../assets/image/about.jpeg') no-repeat center center;
     background-size: cover;
     background-repeat: no-repeat center center;
 
@@ -388,5 +388,5 @@ footer p {
 
 a:hover {
     opacity: 0.6;
-    
+
 }
