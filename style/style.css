@@ -217,7 +217,7 @@ main {
 }
 
 .aboutme .wrepper .outer-block2 {
-    background-image: url('..//assets/image/aboutme.jpg') no-repeat center center;
+    background-image: url('../assets/image/aboutme.jpg') no-repeat center center;
     background-size: cover;
     background-repeat: no-repeat center center;
 
@@ -292,7 +292,7 @@ main {
 .frontend div {
     width: 700px;
     height: 320px;
-    background-image: url('..//assets/image/frontend.jpg') no-repeat center center;
+    background-image: url('../assets/image/frontend.jpg') no-repeat center center;
     background-size: contain;
     align-self: center;
 }
@@ -350,7 +350,7 @@ main {
 }
 
 .lang .outer-block-img {
-    background-image: url('..//assets/image/eng.jpg') no-repeat center center;
+    background-image: url('../assets/image/eng.jpg') no-repeat center center;
     background-size: cover;
     background-repeat: no-repeat center center;
 }
