@@ -302,7 +302,7 @@ main {
     
     width: 700px;
     height: 320px;
-    background: url('/assets/image/frontend.jpg') no-repeat center center;
+    background: url('./assets/image/frontend.jpg') no-repeat center center;
     background-size: contain;
     align-self: center;
 }
