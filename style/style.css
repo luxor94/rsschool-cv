@@ -63,6 +63,13 @@ h2 {
     font-weight: 300;
 }
 
+div.outer-block3 > div > ul > h4:nth-child(1)  {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: 300;
+    font-size: 24px;
+}
+
 a {
     text-decoration: none;
     color: black;
@@ -217,7 +224,7 @@ main {
 }
 
 .aboutme .wrepper .outer-block2 {
-    background-image: url('../assets/image/aboutme.jpg') no-repeat center center;
+    background: url('/assets/image/aboutme.jpg') no-repeat center center;
     background-size: cover;
     background-repeat: no-repeat center center;
 
@@ -292,7 +299,7 @@ main {
 .frontend div {
     width: 700px;
     height: 320px;
-    background-image: url('../assets/image/frontend.jpg') no-repeat center center;
+    background: url('/assets/image/frontend.jpg') no-repeat center center;
     background-size: contain;
     align-self: center;
 }
@@ -350,7 +357,7 @@ main {
 }
 
 .lang .outer-block-img {
-    background-image: url('../assets/image/eng.jpg') no-repeat center center;
+    background: url('/assets/image/eng.jpg') no-repeat center center;
     background-size: cover;
     background-repeat: no-repeat center center;
 }
